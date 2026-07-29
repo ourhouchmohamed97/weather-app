@@ -2,6 +2,14 @@
 
 Vanilla JS + webpack weather forecast app using the Visual Crossing Timeline API.
 
+---
+
+## Live Demo
+
+👉 **[View the project here](https://ourhouchmohamed97.github.io/weather-app/)**
+
+---
+
 ## Setup
 
 1. Get a free API key: https://www.visualcrossing.com/weather-api
@@ -28,3 +36,8 @@ Vanilla JS + webpack weather forecast app using the Visual Crossing Timeline API
 - `src/domController.js` — all DOM rendering (layout, loading, error, results)
 - `src/index.js` — wires the form and unit toggle together
 - `src/config.js` — API key (intentionally client-side per the assignment)
+
+
+---
+
+This project was completed as part of **The Odin Project** JavaScript curriculum.
